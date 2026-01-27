@@ -18,6 +18,8 @@ Quantum Machine Learning (QML) leverages quantum mechanical properties such as s
 These constraints necessitate parameter-efficient approaches that maximize the learning capability of resource-constrained quantum models.
 
 ## Methodology
+<img width="1223" height="465" alt="image" src="https://github.com/user-attachments/assets/44da7a47-01c8-4f62-8e67-8cbaccc73edb" />
+
 
 ### Architecture Design
 
