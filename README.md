@@ -1,4 +1,4 @@
-# Parameter-Efficient CQNN: A Hybrid Knowledge Distillation Approach from Classical CNN to QNN
+# A Hybrid Knowledge Distillation Approach from Classical Neural Network to Quantum Neural Network
 
 ## Overview
 
